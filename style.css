@@ -1,0 +1,21 @@
+.contact-info{
+  text-align: center;
+  padding: 25px;
+  background: #2B2D42;
+  font-family: 'Source Sans Pro', 'Helvetica', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+.contact-info a{
+  padding: 10px;
+  display: inline-block;
+}
+
+a{
+  color: red;
+}
+
+a:hover{
+  text-decoration: none;
+}
